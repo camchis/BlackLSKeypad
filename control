@@ -1,0 +1,9 @@
+Package: com.LFCameron7.blacklskeypad
+Name: BlackLSKeypad
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: LFCameron7
+Author: LFCameron7
+Section: Tweaks
